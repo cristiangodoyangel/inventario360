@@ -48,11 +48,5 @@ Si deseas contribuir a **Inventario360**, ¡no dudes en enviar un pull request! 
 
 ---
 
-## **Licencia 📝**
-
-Este proyecto está bajo la licencia **[Especifica la licencia]**.
-
----
-
 Este proyecto es un ejemplo de cómo mis habilidades en desarrollo de software pueden ayudar a las empresas a resolver problemas reales y mejorar su eficiencia. ¡Espero que te sea útil! Si tienes alguna pregunta o comentario, ¡no dudes en contactarme! 🚀
 
